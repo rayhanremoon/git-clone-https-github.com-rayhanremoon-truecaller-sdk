@@ -16,7 +16,7 @@
 -->
 <resources>
     <string name="app_name">SDK Sample</string>
-    <string name="partnerKey">1uBkN7c604f716da04af3b218666ba47b6630</string>
+    <string name="partnerKey">ul_kcte2wsuc5xpjwn8twee7jix3afqqelxwuthiify</string>
     <string name="name">Name</string>
     <string name="phone">Phone</string>
     <string name="address">Address</string>
@@ -47,7 +47,7 @@
     </string>
     <string name="phone_number">Phone number</string>
     <string name="proceed">Proceed</string>
-    <string name="country_code_in">+91\ </string>
+    <string name="country_code_in">+880\ </string>
     <string name="verify">Verify</string>
     <string name="first_name">First Name</string>
     <string name="john">John</string>
